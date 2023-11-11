@@ -22,15 +22,14 @@ This project implements an instance segmentation model using the UNET architectu
 This project employs the UNET model to perform instance segmentation on lungs and heart structures in medical images from the JSRT dataset. By precisely delineating these organs, the model enhances the accuracy of medical image analysis, providing valuable insights for radiologists and healthcare professionals. The codebase is adaptable, facilitating integration into existing pipelines and serving as a resource for advancing medical image segmentation techniques.
 
 ## Prerequisites
-
-numpy>=1.21.2
-pandas>=1.3.3
-torch>=1.9.1
-torchvision>=0.10.1
-Pillow>=8.2.0
-opencv-python>=4.5.3.56
-matplotlib>=3.4.3
-tqdm>=4.62.2
+- numpy>=1.21.2
+- pandas>=1.3.3
+- torch>=1.9.1
+- torchvision>=0.10.1
+- Pillow>=8.2.0
+- opencv-python>=4.5.3.56
+- matplotlib>=3.4.3
+- tqdm>=4.62.2
 
 ## Dataset
 
@@ -51,7 +50,7 @@ pip install -r requirements.txt
 ```
 
 ## Results
-
+<img src="images/project_logo.png" alt="Project Logo" width="300" height="200">
 
 License
 # MIT License
