@@ -50,9 +50,9 @@ pip install -r requirements.txt
 ```
 
 ## Results
-<img src="demo_results/results" alt="Project Logo" width="300" height="200">
-<img src="demo_results/Average dice coeff_pages-to-jpg-0001" alt="Project Logo" width="300" height="200">
-<img src="demo_results/dice coefficent for each organ_pages-to-jpg-0001" alt="Project Logo" width="300" height="200">
+<img src="demo_results/results.png" alt="Results" width="300" height="200">
+<img src="demo_results/Average dice coeff_pages-to-jpg-0001.jpg" alt="table of Average dice coeffecient" width="300" height="200">
+<img src="demo_results/dice coefficent for each organ_pages-to-jpg-0001.jpg" alt="Table for each organ" width="300" height="200">
 
 License
 # MIT License
