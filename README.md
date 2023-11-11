@@ -1,4 +1,4 @@
-# Project Title
+# JSRT Unet
 ## Instance Segmentation of Lungs and Heart in JSRT Dataset using UNET Model
 
 [This project implements an instance segmentation model using the UNET architecture to precisely identify and segment lungs and heart structures in medical images from the JSRT dataset. The goal is to provide accurate delineation of these organs, aiding in medical image analysis and diagnosis. The project includes code for training the model, evaluating results, and showcasing the effectiveness of the instance segmentation on the provided dataset.]
