@@ -50,7 +50,9 @@ pip install -r requirements.txt
 ```
 
 ## Results
-<img src="images/project_logo.png" alt="Project Logo" width="300" height="200">
+<img src="demo_results/results" alt="Project Logo" width="300" height="200">
+<img src="demo_results/Average dice coeff_pages-to-jpg-0001" alt="Project Logo" width="300" height="200">
+<img src="demo_results/dice coefficent for each organ_pages-to-jpg-0001" alt="Project Logo" width="300" height="200">
 
 License
 # MIT License
