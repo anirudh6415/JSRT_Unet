@@ -53,7 +53,7 @@ pip install -r requirements.txt
 <img src="demo_results/results.png" alt="Results" width="800" height="750">
 <div>
   <img src="demo_results/Average dice coeff_pages-to-jpg-0001.jpg" alt="Table of Average Dice Coefficient" width="400" height="350">
-  <img src="demo_results/dice coefficent for each organ_pages-to-jpg-0001.jpg" alt="Table for Each Organ" width="400" height="350">
+  <img src="demo_results/dice coefficent for each organ_pages-to-jpg-0001.jpg" alt="Table for Each Organ" width="400" height="400">
 </div>
 
 
